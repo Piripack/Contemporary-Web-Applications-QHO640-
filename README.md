@@ -1,7 +1,21 @@
 # 🚀 Contemporary Web Applications (QHO640)
 ## Student Guide & Course Materials
 
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+
 Welcome to the **Contemporary Web Applications** course! This comprehensive guide covers modern React development, from fundamentals to advanced topics including Next.js and Firebase integration.
+
+## 📋 Table of Contents
+- [📚 Course Overview](#-course-overview)
+- [🗂️ Course Contents](#️-course-contents)
+- [🎯 Learning Outcomes](#-learning-outcomes)
+- [🚀 Getting Started](#-getting-started)
+- [💡 Prerequisites](#-prerequisites)
+- [📋 Assessment Information](#-assessment-information)
+- [🤝 Contributing](#-contributing)
 
 ## 📚 Course Overview
 
@@ -47,27 +61,79 @@ By completing this course, you will be able to:
 
 ## 🚀 Getting Started
 
+### 💡 Prerequisites
+
+Before starting this course, make sure you have:
+- **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
+- **Git** for version control - [Download here](https://git-scm.com/)
+- A code editor (VS Code recommended) - [Download here](https://code.visualstudio.com/)
+- Basic knowledge of JavaScript, HTML, and CSS
+
+### 📖 How to Use This Course
+
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Piripack/Contemporary-Web-Applications-QHO640-.git
+   cd Contemporary-Web-Applications-QHO640-
    ```
 
-2. **Navigate through the topics** in order, starting with [Topic 01](./topics/01-react-revision-and-vite.md)
+2. **Start with Topic 01** and work through sequentially:
+   - Read the theory and concepts
+   - Follow along with code examples
+   - Complete the practical exercises
+   - Apply what you've learned in your own projects
 
-3. **Follow along** with the code examples and complete the exercises
+3. **Set up your development environment** as described in Topic 01
+
+4. **Practice regularly** - The best way to learn is by building!
 
 ## 📋 Assessment Information
 
 > **Note**: Assessment details (AE1/AE2 reports) will be added to this repository as they become available.
 
+### 📁 Repository Structure
+```
+Contemporary-Web-Applications-QHO640-/
+├── README.md                          # This comprehensive guide
+├── topics/                            # All course topics
+│   ├── 01-react-revision-and-vite.md
+│   ├── 02-effects-server-communication-lifting-state.md
+│   ├── 03-reusable-components.md
+│   ├── 04-hooks-and-context.md
+│   ├── 05-further-react-topics.md
+│   ├── 06-react-router.md
+│   ├── 07-server-side-react.md
+│   ├── 08-nextjs-part-one-filesystem-routing.md
+│   ├── 09-nextjs-part-two-further-features.md
+│   ├── 10-introduction-to-firebase.md
+│   └── 11-firebase-with-react-and-nextjs.md
+└── [Future: AE1/AE2 reports and practical assignments]
+```
+
 ## 🤝 Contributing
 
-This repository is part of the QHO640 Contemporary Web Applications course. If you find any issues or have suggestions for improvements, please feel free to contribute.
+This repository is part of the QHO640 Contemporary Web Applications course. If you find any issues or have suggestions for improvements:
+
+1. 🐛 **Report Issues**: Open an issue describing any problems or typos
+2. 💡 **Suggest Improvements**: Share ideas for better explanations or examples  
+3. 🔧 **Submit Pull Requests**: Fork the repo and submit improvements
 
 ## 📞 Support
 
-For questions about the course content, please refer to your course instructor or use the appropriate course communication channels.
+- 📧 **Course Questions**: Contact your course instructor
+- 💬 **Technical Issues**: Use the course discussion forums
+- 📚 **Additional Resources**: Check the official React, Next.js, and Firebase documentation
+
+## 🌟 Quick Navigation
+
+**🎯 Ready to start?** Begin your journey here: [**Topic 01: React Revision and Vite →**](./topics/01-react-revision-and-vite.md)
 
 ---
 
-*Happy coding! 🎉*
+<div align="center">
+
+**✨ Happy coding and building amazing web applications! ✨**
+
+*Made with ❤️ for Contemporary Web Applications students*
+
+</div>

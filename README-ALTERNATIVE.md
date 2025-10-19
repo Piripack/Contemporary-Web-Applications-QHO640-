@@ -1,14 +1,5 @@
-# 🚀 Conte## 📋 Table of Contents
-- [📚 Course Overview](#-course-overview)
-- [🗂️ Course Contents](#️-course-contents)
-- [🎯 Learning Outcomes](#-learning-outcomes)
-- [📋 Assessment Alignment](#-assessment-alignment)
-- [🤖 AI Usage Guidelines](#-ai-usage-guidelines)
-- [🚀 Getting Started](#-getting-started)
-- [💡 Prerequisites](#-prerequisites)
-- [📋 Assessment Information](#-assessment-information)
-- [🤝 Contributing](#-contributing)eb Applications (QHO640)
-## Student Guide & Course Materials
+# 🚀 Contemporary Web Applications (QHO640)
+## Student Guide & Course Materials - Alternative Layout
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -17,52 +8,62 @@
 
 Welcome to the **Contemporary Web Applications** course! This comprehensive guide covers modern React development, from fundamentals to advanced topics including Next.js and Firebase integration.
 
-## 📋 Table of Contents
-- [📚 Course Overview](#-course-overview)
-- [🗂️ Course Contents](#️-course-contents)
-- [🎯 Learning Outcomes](#-learning-outcomes)
-- [� Assessment Alignment](#-assessment-alignment)
-- [�🚀 Getting Started](#-getting-started)
-- [💡 Prerequisites](#-prerequisites)
-- [📋 Assessment Information](#-assessment-information)
-- [🤝 Contributing](#-contributing)
-
 ## 📚 Course Overview
 
 This repository contains **11 comprehensive topics** covering everything you need to build modern web applications with React, Next.js, and Firebase. Each topic includes detailed explanations, practical examples, and hands-on exercises.
 
-## 🗂️ Course Contents
+---
 
-### 📖 **React Fundamentals**
+## 🗂️ Course Topics
 
-| Topic | Title | Description |
-|-------|-------|-------------|
-| **01** | [React Revision and Vite](./topics/01-react-revision-and-vite.md) | React basics, JSX, and modern development with Vite |
-| **02** | [Effects, Server Communication & Lifting State](./topics/02-effects-server-communication-lifting-state.md) | useEffect, API calls, and state management patterns |
-| **03** | [Reusable Components](./topics/03-reusable-components.md) | Building modular, reusable React components |
+### 📖 React Fundamentals
 
-### 🔧 **Advanced React Concepts**
+#### **01.** [React Revision and Vite](./topics/01-react-revision-and-vite.md)
+> React basics, JSX, and modern development with Vite
 
-| Topic | Title | Description |
-|-------|-------|-------------|
-| **04** | [Hooks and Context](./topics/04-hooks-and-context.md) | Custom hooks and React Context API |
-| **05** | [Further React Topics](./topics/05-further-react-topics.md) | Advanced React patterns and techniques |
-| **06** | [React Router](./topics/06-react-router.md) | Client-side routing and navigation |
+#### **02.** [Effects, Server Communication & Lifting State](./topics/02-effects-server-communication-lifting-state.md)
+> useEffect, API calls, and state management patterns
 
-### 🌐 **Server-Side React & Next.js**
+#### **03.** [Reusable Components](./topics/03-reusable-components.md)
+> Building modular, reusable React components
 
-| Topic | Title | Description |
-|-------|-------|-------------|
-| **07** | [Server-Side React](./topics/07-server-side-react.md) | SSR concepts and implementation |
-| **08** | [Next.js Part One - Filesystem Routing](./topics/08-nextjs-part-one-filesystem-routing.md) | Next.js fundamentals and routing |
-| **09** | [Next.js Part Two - Further Features](./topics/09-nextjs-part-two-further-features.md) | Advanced Next.js features and optimization |
+---
 
-### 🔥 **Firebase Integration**
+### 🔧 Advanced React Concepts
 
-| Topic | Title | Description |
-|-------|-------|-------------|
-| **10** | [Introduction to Firebase](./topics/10-introduction-to-firebase.md) | Firebase basics and setup |
-| **11** | [Firebase with React and Next.js](./topics/11-firebase-with-react-and-nextjs.md) | Full-stack applications with Firebase |
+#### **04.** [Hooks and Context](./topics/04-hooks-and-context.md)
+> Custom hooks and React Context API
+
+#### **05.** [Further React Topics](./topics/05-further-react-topics.md)
+> Advanced React patterns and techniques
+
+#### **06.** [React Router](./topics/06-react-router.md)
+> Client-side routing and navigation
+
+---
+
+### 🌐 Server-Side React & Next.js
+
+#### **07.** [Server-Side React](./topics/07-server-side-react.md)
+> SSR concepts and implementation
+
+#### **08.** [Next.js Part One - Filesystem Routing](./topics/08-nextjs-part-one-filesystem-routing.md)
+> Next.js fundamentals and routing
+
+#### **09.** [Next.js Part Two - Further Features](./topics/09-nextjs-part-two-further-features.md)
+> Advanced Next.js features and optimization
+
+---
+
+### 🔥 Firebase Integration
+
+#### **10.** [Introduction to Firebase](./topics/10-introduction-to-firebase.md)
+> Firebase basics and setup
+
+#### **11.** [Firebase with React and Next.js](./topics/11-firebase-with-react-and-nextjs.md)
+> Full-stack applications with Firebase
+
+---
 
 ## 🎯 Learning Outcomes
 

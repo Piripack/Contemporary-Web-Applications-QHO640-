@@ -3,60 +3,11 @@
 
 @import "{{ site.theme }}";
 
-/* Hide all GitHub Pages default elements */
-.page-header {
-  display: none !important;
-}
-
-.site-footer {
-  display: none !important;
-}
-
-.project-name {
-  display: none !important;
-}
-
-.project-tagline {
-  display: none !important;
-}
-
-.btn {
-  display: none !important;
-}
-
-/* Make content full-width and remove margins */
+/* Simple, clean styling */
 .main-content {
-  max-width: none !important;
-  padding: 2rem !important;
-  margin: 0 !important;
-  width: 100% !important;
-}
-
-/* Reset body margins */
-body {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Clean heading styles */
-h1 {
-  color: #2c3e50;
-  border-bottom: 3px solid #3498db;
-  padding-bottom: 0.5rem;
-  margin-bottom: 2rem;
-  margin-top: 1rem;
-}
-
-h2 {
-  color: #34495e;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-h3 {
-  color: #2c3e50;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
 }
 
 /* Enhanced table styling */
@@ -64,24 +15,19 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.5rem 0;
-  background: #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  border-radius: 6px;
-  overflow: hidden;
 }
 
 table th {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  font-weight: 600;
-  padding: 12px 15px;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  padding: 12px;
   text-align: left;
-  border: none;
+  font-weight: 600;
 }
 
 table td {
-  padding: 12px 15px;
-  border-bottom: 1px solid #e0e0e0;
+  border: 1px solid #dee2e6;
+  padding: 12px;
   vertical-align: top;
 }
 
@@ -89,16 +35,11 @@ table tr:nth-child(even) {
   background-color: #f8f9fa;
 }
 
-table tr:hover {
-  background-color: #e3f2fd;
-  transition: background-color 0.2s ease;
-}
-
-/* Code blocks */
+/* Clean code styling */
 pre {
   background: #f8f9fa;
   border: 1px solid #e9ecef;
-  border-radius: 6px;
+  border-radius: 4px;
   padding: 1rem;
   overflow-x: auto;
 }
@@ -108,36 +49,4 @@ code {
   padding: 2px 4px;
   border-radius: 3px;
   font-size: 0.9em;
-}
-
-/* Links */
-a {
-  color: #3498db;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #2980b9;
-  text-decoration: underline;
-}
-
-/* Badges */
-img[alt*="badge"] {
-  margin: 0 4px;
-}
-
-/* Responsive design */
-@media (max-width: 768px) {
-  .main-content {
-    padding: 1rem !important;
-  }
-  
-  table {
-    font-size: 0.9rem;
-  }
-  
-  table th,
-  table td {
-    padding: 8px 10px;
-  }
 }

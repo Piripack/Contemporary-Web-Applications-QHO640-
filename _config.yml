@@ -1,13 +1,12 @@
 title: ""
 description: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 plugins:
   - jekyll-relative-links
-  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true

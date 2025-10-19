@@ -12,7 +12,8 @@ Welcome to the **Contemporary Web Applications** course! This comprehensive guid
 - [📚 Course Overview](#-course-overview)
 - [🗂️ Course Contents](#️-course-contents)
 - [🎯 Learning Outcomes](#-learning-outcomes)
-- [🚀 Getting Started](#-getting-started)
+- [� Assessment Alignment](#-assessment-alignment)
+- [�🚀 Getting Started](#-getting-started)
 - [💡 Prerequisites](#-prerequisites)
 - [📋 Assessment Information](#-assessment-information)
 - [🤝 Contributing](#-contributing)
@@ -58,6 +59,22 @@ By completing this course, you will be able to:
 - ✅ Create full-stack applications with Next.js and Firebase
 - ✅ Deploy and optimize web applications for production
 - ✅ Apply best practices for modern web development
+
+## 📋 Assessment Alignment
+
+**🎯 Want to ace your AE2 assignment?** 
+
+Our course topics are specifically designed to align with the QHO640 assessment criteria. Each topic directly contributes to your assignment success!
+
+📊 **[View Complete Assessment Alignment Guide →](./ASSESSMENT-ALIGNMENT.md)**
+
+### Quick Assessment Overview:
+- **Topics 1-3**: Foundation skills (React, components, API integration)
+- **Topics 4-6**: Advanced React patterns (hooks, context, routing)  
+- **Topics 7-9**: Modern frameworks (Next.js, SSR, optimization)
+- **Topics 10-11**: Full-stack development (Firebase integration)
+
+*Each topic includes specific guidance on how it relates to your AE2 deliverables!*
 
 ## 🚀 Getting Started
 

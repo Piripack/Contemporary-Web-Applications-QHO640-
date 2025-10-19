@@ -102,4 +102,8 @@ Use `useNavigate` to redirect to home after form submission.
 3. How do nested routes differ from normal routes?
 4. What hook performs navigation?
 
+## AE1/AE2 Relevance
+**AE1:** Shows understanding of single-page application architecture and navigation patterns.
+**AE2:** Essential for creating multi-page applications with proper user experience. Demonstrates client-side routing, URL management, and navigation flow - critical components for any modern web application.
+
 _Last updated: 2025-10-19_

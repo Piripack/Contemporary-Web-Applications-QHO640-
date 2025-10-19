@@ -99,7 +99,11 @@ Create a page that shows the current time using `getServerSideProps`.
 
 ## Self-Check Questions
 1. What directory defines routes in Next.js?
-2. What’s the difference between static and server-side rendering?
+2. What's the difference between static and server-side rendering?
 3. What hook retrieves dynamic route parameters?
+
+## AE1/AE2 Relevance
+**AE1:** Demonstrates knowledge of modern framework architecture and routing conventions.
+**AE2:** Critical for building production-ready applications with Next.js. Shows understanding of file-system based routing, SSR/SSG concepts, and modern web development frameworks - highly valued in contemporary web applications.
 
 _Last updated: 2025-10-19_

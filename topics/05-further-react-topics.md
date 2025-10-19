@@ -100,8 +100,12 @@ Wrap a child component in an Error Boundary to catch runtime errors.
 
 ## Self-Check Questions
 1. Why must list items have keys?
-2. What’s the difference between `useRef` and `useState`?
+2. What's the difference between `useRef` and `useState`?
 3. When should you use `React.memo`?
 4. What does `React.lazy` achieve?
+
+## AE1/AE2 Relevance
+**AE1:** Shows advanced React knowledge and performance optimization techniques.
+**AE2:** Critical for building high-performance applications. Demonstrates understanding of React optimization patterns, lazy loading, error handling, and advanced React features - essential for scalable, production-ready applications.
 
 _Last updated: 2025-10-19_

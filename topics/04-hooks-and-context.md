@@ -88,7 +88,9 @@ Manage counter logic with reducer instead of multiple states.
 ## Self-Check Questions
 1. Why are hooks needed?
 2. What problem does Context solve?
-3. What is the rule of hooks?
-4. When useReducer instead of useState?
+
+## AE1/AE2 Relevance
+**AE1:** Demonstrates advanced React patterns and state management architecture decisions.
+**AE2:** Critical for building complex applications with proper state management. Shows understanding of React Context API, custom hooks, and modern React patterns essential for scalable web applications.
 
 _Last updated: 2025-10-19_

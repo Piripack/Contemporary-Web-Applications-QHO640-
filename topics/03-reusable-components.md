@@ -99,6 +99,10 @@ Parent:
 ### Task 3.3 – Use PropTypes
 Add validation and default props to your components.
 
+## AE1/AE2 Relevance
+**AE1:** Demonstrates component design thinking and reusability principles.
+**AE2:** Essential for building scalable applications with consistent UI components. Shows understanding of React architecture patterns and prop validation best practices.
+
 ### Task 3.4 – Handle Callbacks
 Add a clickable list where each item triggers a parent callback.
 

@@ -135,4 +135,8 @@ Deploy project to Vercel.
 3. What is the purpose of `.env.local`?
 4. What is the best platform to deploy a Next.js + Firebase app?
 
+## AE1/AE2 Relevance
+**AE1:** Demonstrates full-stack development knowledge and integration of backend services.
+**AE2:** Essential for creating complete web applications with authentication, database, and deployment. Shows mastery of modern web development stack including Firebase integration, environment configuration, and production deployment - key components for professional web applications.
+
 _Last updated: 2025-10-19_

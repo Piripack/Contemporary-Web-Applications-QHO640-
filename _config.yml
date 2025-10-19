@@ -1,5 +1,5 @@
-title: Contemporary Web Applications QHO640
-description: Course materials for Contemporary Web Applications
+title: ""
+description: ""
 theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
@@ -7,6 +7,8 @@ kramdown:
   syntax_highlighter: rouge
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
+show_downloads: false

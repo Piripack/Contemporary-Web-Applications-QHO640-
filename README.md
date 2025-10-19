@@ -35,34 +35,34 @@ This repository contains **11 comprehensive topics** covering everything you nee
 
 ### 📖 **React Fundamentals**
 
-Topic | Title | Description
---- | --- | ---
-**01** | [React Revision and Vite](./topics/01-react-revision-and-vite.md) | React basics, JSX, and modern development with Vite
-**02** | [Effects, Server Communication & Lifting State](./topics/02-effects-server-communication-lifting-state.md) | useEffect, API calls, and state management patterns
-**03** | [Reusable Components](./topics/03-reusable-components.md) | Building modular, reusable React components
+| Topic | Title | Description |
+| ----- | ----- | ----------- |
+| **01** | [React Revision and Vite](./topics/01-react-revision-and-vite.md) | React basics, JSX, and modern development with Vite |
+| **02** | [Effects, Server Communication & Lifting State](./topics/02-effects-server-communication-lifting-state.md) | useEffect, API calls, and state management patterns |
+| **03** | [Reusable Components](./topics/03-reusable-components.md) | Building modular, reusable React components |
 
 ### 🔧 **Advanced React Concepts**
 
-Topic | Title | Description
---- | --- | ---
-**04** | [Hooks and Context](./topics/04-hooks-and-context.md) | Custom hooks and React Context API
-**05** | [Further React Topics](./topics/05-further-react-topics.md) | Advanced React patterns and techniques
-**06** | [React Router](./topics/06-react-router.md) | Client-side routing and navigation
+| Topic | Title | Description |
+| ----- | ----- | ----------- |
+| **04** | [Hooks and Context](./topics/04-hooks-and-context.md) | Custom hooks and React Context API |
+| **05** | [Further React Topics](./topics/05-further-react-topics.md) | Advanced React patterns and techniques |
+| **06** | [React Router](./topics/06-react-router.md) | Client-side routing and navigation |
 
 ### 🌐 **Server-Side React & Next.js**
 
-Topic | Title | Description
---- | --- | ---
-**07** | [Server-Side React](./topics/07-server-side-react.md) | SSR concepts and implementation
-**08** | [Next.js Part One - Filesystem Routing](./topics/08-nextjs-part-one-filesystem-routing.md) | Next.js fundamentals and routing
-**09** | [Next.js Part Two - Further Features](./topics/09-nextjs-part-two-further-features.md) | Advanced Next.js features and optimization
+| Topic | Title | Description |
+| ----- | ----- | ----------- |
+| **07** | [Server-Side React](./topics/07-server-side-react.md) | SSR concepts and implementation |
+| **08** | [Next.js Part One - Filesystem Routing](./topics/08-nextjs-part-one-filesystem-routing.md) | Next.js fundamentals and routing |
+| **09** | [Next.js Part Two - Further Features](./topics/09-nextjs-part-two-further-features.md) | Advanced Next.js features and optimization |
 
 ### 🔥 **Firebase Integration**
 
-Topic | Title | Description
---- | --- | ---
-**10** | [Introduction to Firebase](./topics/10-introduction-to-firebase.md) | Firebase basics and setup
-**11** | [Firebase with React and Next.js](./topics/11-firebase-with-react-and-nextjs.md) | Full-stack applications with Firebase
+| Topic | Title | Description |
+| ----- | ----- | ----------- |
+| **10** | [Introduction to Firebase](./topics/10-introduction-to-firebase.md) | Firebase basics and setup |
+| **11** | [Firebase with React and Next.js](./topics/11-firebase-with-react-and-nextjs.md) | Full-stack applications with Firebase |
 
 ## 🎯 Learning Outcomes
 
